@@ -47,6 +47,11 @@ to the workflow then the rules could also reason but the AST or
 sub tree of that AST which could easily contain additional info
 like line numbers that would be useful in the student feedback.
 
+Additionally though I did this entirely in C# including the student
+programs using a mini parser for python and producing an AST would
+allow students to submit solutions in python (or any language)
+and could basically function the same way.
+
 -Shawn Harris
 
 
